@@ -10,6 +10,7 @@ Group:		Development/Tools
 Source0:	http://www.easyleading.org/Downloads/%{zope_subname}-%{version}-andreas.tar.gz
 # Source0-md5:	0fe97ac8a24e1e706df8d5d4d9543858
 URL:		http://www.easyleading.org/Members/Eddy/LocalFS_1_3/
+BuildRequires:  python
 %pyrequires_eq	python-modules
 Requires:	Zope
 Requires(post,postun):	/usr/sbin/installzopeproduct
