@@ -1,6 +1,4 @@
-#
-# WARNING: this product not work propertly on Zope 2.7* !
-#
+
 %include	/usr/lib/rpm/macros.python
 %define		zope_subname	LocalFS
 Summary:	This product allows you to store Zope objects as human-readable files
