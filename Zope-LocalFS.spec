@@ -4,7 +4,7 @@ Summary:	This product allows you to store Zope objects as human-readable files
 Summary(pl):	Dodatek umo¿liwiaj±cy praktyczniejsze przetrzymywanie obiektów Zope
 Name:		Zope-%{zope_subname}
 Version:	1.3
-Release:	1
+Release:	2
 License:	Distributable
 Group:		Development/Tools
 Source0:	http://www.easyleading.org/Downloads/%{zope_subname}-%{version}-andreas.tar.gz
