@@ -51,7 +51,7 @@ fi
 if [ "$1" = "0" ]; then
 	/usr/sbin/installzopeproduct -d %{zope_subname}
 	if [ -f /var/lock/subsys/zope ]; then
-	/etc/rc.d/init.d/zope restart >&2
+		/etc/rc.d/init.d/zope restart >&2
 	fi
 fi
 
