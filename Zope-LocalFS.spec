@@ -3,13 +3,13 @@
 Summary:	This product allows you to store Zope objects as human-readable files
 Summary(pl):	Dodatek umo¿liwiaj±cy praktyczniejsze przetrzymywanie obiektów Zope
 Name:		Zope-%{zope_subname}
-Version:	1.3
-Release:	2
+Version:	1.6
+Release:	1
 License:	Distributable
 Group:		Development/Tools
 Source0:	http://www.easyleading.org/Downloads/%{zope_subname}-%{version}-andreas.tar.gz
-# Source0-md5:	0fe97ac8a24e1e706df8d5d4d9543858
-URL:		http://www.easyleading.org/Members/Eddy/LocalFS_1_3/
+# Source0-md5:	0196bdc5df0797cd33f5297b5a52c2f8
+URL:		http://www.easyleading.org/Members/Eddy/LocalFS-1.6-andreas/
 BuildRequires:	python
 %pyrequires_eq	python-modules
 Requires:	Zope
