@@ -1,7 +1,7 @@
 
 %define		zope_subname	LocalFS
 Summary:	This product allows you to store Zope objects as human-readable files
-Summary(pl.UTF-8):   Dodatek umożliwiający praktyczniejsze przetrzymywanie obiektów Zope
+Summary(pl.UTF-8):	Dodatek umożliwiający praktyczniejsze przetrzymywanie obiektów Zope
 Name:		Zope-%{zope_subname}
 Version:	1.6
 Release:	1
